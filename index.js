@@ -1,3 +1,5 @@
 console.log('Hello Word');
 
-console.console.error('Error');
+console.error('Error');
+
+console.log('Helo');
